@@ -1,0 +1,56 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T00:54:39.402Z",
+  "slug": "hoseshop",
+  "name": "Pipeline WAM",
+  "city": "Auckland",
+  "industry": {
+    "label": "Plumbers",
+    "niche": "plumber",
+    "group": "Trades & construction"
+  },
+  "contact": {
+    "phone": "09 828 4710",
+    "address": "East Tāmaki Road"
+  },
+  "social": {},
+  "about": {
+    "overview": "Pipeline Industries is a progressive and innovative manufacturing and supply company serving heavy industries, infrastructural operations, marine, automotive, food, medical, and rural industries right through to the home handyman.",
+    "tagline": "Featured Products"
+  },
+  "before": {
+    "url": "http://Hoseshop.co.nz",
+    "domain": "hoseshop.co.nz",
+    "finalUrl": "https://www.pipelinewam.co.nz/",
+    "title": "Featured Products - Pipeline WAM",
+    "pages": 75,
+    "score": 49,
+    "assessedAt": "2026-11-19T10:59:22.750Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "img-alt",
+        "title": "Images missing descriptions",
+        "evidence": "27 of 27 images have no alt text (accessibility and SEO)."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/pipeline-wam/",
+    "repoUrl": "https://github.com/tova-studio/pipeline-wam",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T00:54:39.402Z"
+  }
+}
